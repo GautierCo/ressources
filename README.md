@@ -6,9 +6,11 @@ This is an attempt to categorise different Libraries
 
 - [Animation JS](#Animation)
 - [Audio](#Audio)
+- [Date and Timezone](#Time)
 - [Framework JS](#Framework)
 - [Utility JS](#Utility)
 - [Validation](#Validation)
+
 
 
 Libraries
@@ -21,6 +23,11 @@ Libraries
 ### Audio 
 
 - [howlerjs](https://howlerjs.com/) - howler.js makes working with audio in JavaScript easy and reliable across all platforms.
+
+### Date and timezone
+
+- [momentjs](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript.
+- [momentjstimezone](https://momentjs.com/timezone/) - Parse and display dates in any timezone.
 
 ### Framework
 
