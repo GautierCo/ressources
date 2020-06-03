@@ -52,7 +52,8 @@ Libraries
 ### NodeMiddleware
 
 - [passport](http://www.passportjs.org/) - Simple, unobtrusive authentication for Node.js
-- [http-server](https://github.com/http-party/http-server) - http-server is a simple, zero-configuration command-line http server
+- [http-server](https://github.com/http-party/http-server) - http-server is a simple, zero-configuration command-line http server.
+- [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - A library to help you hash passwords.
 
 ### Utility
 
