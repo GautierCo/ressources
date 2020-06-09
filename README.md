@@ -10,6 +10,7 @@ This is an attempt to categorise different Libraries
 - [Framework JS](#Framework)
 - [Maps](#Maps)
 - [NodeMiddleware](#NodeMiddleware)
+- [Orm](#Orm)
 - [Utility JS](#Utility)
 - [Validation](#Validation)
 - [Video](#Video)
@@ -54,6 +55,11 @@ Libraries
 - [passport](http://www.passportjs.org/) - Simple, unobtrusive authentication for Node.js
 - [http-server](https://github.com/http-party/http-server) - http-server is a simple, zero-configuration command-line http server.
 - [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - A library to help you hash passwords.
+- [connect-redis](https://github.com/tj/connect-redis#readme) - connect-redis provides Redis session storage for Express
+
+### Orm
+
+- [Sequelize](https://sequelize.org/v5/) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. 
 
 ### Utility
 
