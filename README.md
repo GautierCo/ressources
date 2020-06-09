@@ -1,6 +1,6 @@
-# libraries
+# Ressources JS fullstack
 
-This is an attempt to categorise different Libraries 
+This is an attempt to categorise different ressources for fullstack developper JS
 
 ## Table of Contents
 
