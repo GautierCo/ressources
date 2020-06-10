@@ -6,6 +6,7 @@ This is an attempt to categorise different ressources for fullstack developper J
 
 - [Animation JS](#Animation)
 - [Audio](#Audio)
+- [Cdn](#Cdn)
 - [Date and Timezone](#Time)
 - [Framework JS](#Framework)
 - [Maps](#Maps)
@@ -34,6 +35,11 @@ Libraries
 
 - [howlerjs](https://howlerjs.com/) - howler.js makes working with audio in JavaScript easy and reliable across all platforms.
 
+### Cdn
+
+- [Font awesome](https://cdnjs.com/libraries/font-awesome) - The iconic SVG, font, and CSS toolkit.
+- [Bootstrap](https://www.bootstrapcdn.com/) - Source code and more for the most popular front-end framework in the world.
+
 ### Date
 
 - [momentjs](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript.
@@ -48,7 +54,9 @@ Libraries
 ### Maps
 
 - [algolia](https://community.algolia.com/places/) - Turn any <input> into an address autocomplete
-- [mapbox](https://www.mapbox.com/) - Mapbox is the location data platform for mobile & web applications. We’re changing how people move around cities & explore our world.
+- [mapbox](https://www.mapbox.com/) - Maps and location for developers. Mapbox is the location data platform for mobile & web applications. We’re changing how people move around cities & explore our world.
+- [Mapquest](https://developer.mapquest.com/) - https://developer.mapquest.com/
+- [api store locator](https://www.youtube.com/watch?v=9FQrFah9rnc) - Video youtube to learn how to fetch data from rest API, post data to data to database  and display data on a map - Traversy media
 
 ### NodeMiddleware
 
