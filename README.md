@@ -55,7 +55,7 @@ Libraries
 
 - [algolia](https://community.algolia.com/places/) - Turn any <input> into an address autocomplete
 - [mapbox](https://www.mapbox.com/) - Maps and location for developers. Mapbox is the location data platform for mobile & web applications. We’re changing how people move around cities & explore our world.
-- [Mapquest](https://developer.mapquest.com/) - https://developer.mapquest.com/
+- [Mapquest](https://developer.mapquest.com/) - MapQuest APIs, toolkits, and other developer services.
 - [api store locator](https://www.youtube.com/watch?v=9FQrFah9rnc) - Video youtube to learn how to fetch data from rest API, post data to data to database  and display data on a map - Traversy media
 
 ### NodeMiddleware
