@@ -6,6 +6,7 @@ This is an attempt to categorise different ressources for fullstack developper J
 
 - [Animation JS](#Animation)
 - [Audio](#Audio)
+- [Chat](#Chat)
 - [Cdn](#Cdn)
 - [Date and Timezone](#Time)
 - [Framework JS](#Framework)
@@ -34,6 +35,10 @@ Libraries
 ### Audio 
 
 - [howlerjs](https://howlerjs.com/) - howler.js makes working with audio in JavaScript easy and reliable across all platforms.
+
+### Chat
+
+- [Tawk](https://www.tawk.to/) - Monitor and chat with the visitors on your website, mobile app or from a free customizable page.
 
 ### Cdn
 
