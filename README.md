@@ -11,7 +11,7 @@ This is an attempt to categorise different ressources for fullstack developper J
 - [Cdn](#Cdn)
 - [Date and Timezone](#Time)
 - [Framework JS](#Framework)
-- [Libraray](#Library)
+- [Library](#Library)
 - [Maps](#Maps)
 - [NodeMiddleware](#NodeMiddleware)
 - [Orm](#Orm)
