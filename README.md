@@ -74,6 +74,7 @@ Libraries
 - [http-server](https://github.com/http-party/http-server) - http-server is a simple, zero-configuration command-line http server.
 - [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - A library to help you hash passwords.
 - [connect-redis](https://github.com/tj/connect-redis#readme) - connect-redis provides Redis session storage for Express
+- [multer](https://github.com/expressjs/multer) - Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency.
 
 ### Orm
 
