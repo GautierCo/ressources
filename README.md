@@ -11,6 +11,7 @@ This is an attempt to categorise different ressources for fullstack developper J
 - [Cdn](#Cdn)
 - [Date and Timezone](#Time)
 - [Framework JS](#Framework)
+- [Libraray](#Library)
 - [Maps](#Maps)
 - [NodeMiddleware](#NodeMiddleware)
 - [Orm](#Orm)
@@ -60,6 +61,9 @@ Libraries
 - [express.js](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js.
 - [hapi](https://hapi.dev/) - Build powerful, scalable applications, with minimal overhead and full out-of-the-box functionality
 
+### Library
+
+- [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - A library to help you hash passwords.
 
 ### Maps
 
@@ -72,7 +76,6 @@ Libraries
 
 - [passport](http://www.passportjs.org/) - Simple, unobtrusive authentication for Node.js
 - [http-server](https://github.com/http-party/http-server) - http-server is a simple, zero-configuration command-line http server.
-- [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - A library to help you hash passwords.
 - [connect-redis](https://github.com/tj/connect-redis#readme) - connect-redis provides Redis session storage for Express
 - [multer](https://github.com/expressjs/multer) - Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency.
 
