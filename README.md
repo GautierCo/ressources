@@ -5,6 +5,7 @@ This is an attempt to categorise different ressources for fullstack developper J
 ## Table of Contents
 
 - [Animation JS](#Animation)
+- [Api](#Api)
 - [Audio](#Audio)
 - [Chat](#Chat)
 - [Cdn](#Cdn)
@@ -35,6 +36,10 @@ Libraries
 ### Audio 
 
 - [howlerjs](https://howlerjs.com/) - howler.js makes working with audio in JavaScript easy and reliable across all platforms.
+
+### Api
+
+- [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 
 ### Chat
 
