@@ -19,6 +19,7 @@ This is an attempt to categorise different ressources for fullstack developper J
 - [Utility JS](#Utility)
 - [Validation](#Validation)
 - [Video](#Video)
+- [Youtube](#YoutubeVideo)
 
 
 
@@ -93,6 +94,9 @@ Libraries
 
 - [underscorejs](https://underscorejs.org) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
 - [npm-semver](https://docs.npmjs.com/misc/semver.html) - The semantic versioner for npm
+- [lodash](https://lodash.com/docs/4.17.15) - Lodash makes JavaScript easier by taking the hassle out of working with arrays,
+numbers, objects, strings, etc. Lodash’s modular methods are great for:
+- [middleware function template](https://gist.github.com/ibriq/82b204d316067803e796) - how to use middleware function in app.locals to use them in template engine
 
 ### Validation
 
@@ -101,5 +105,9 @@ Libraries
 ### Video 
 
 - [Jitsi](https://jitsi.org/) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+
+### YoutubeVideo
+
+- [node js app with google login, store user session with db mongo](https://www.youtube.com/watch?v=SBvmnHTQIPY&t=191s) - 
 
 
