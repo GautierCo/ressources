@@ -42,6 +42,7 @@ Libraries
 ### Api
 
 - [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [graphQL tutorial](https://www.youtube.com/watch?v=i_wvap3eiRY&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f&index=36) - GraphQL Tutorial - The net ninja
 
 ### Chat
 
