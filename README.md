@@ -22,8 +22,6 @@ This is an attempt to categorise different ressources for fullstack developper J
 - [Youtube](#YoutubeVideo)
 
 
-
-
 Libraries
 -------
 
@@ -71,6 +69,11 @@ Libraries
 ### Library
 
 - [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - A library to help you hash passwords.
+- [Ckeditor](https://ckeditor.com/) - Proven, enterprise-grade WYSIWYG HTML editor with wide browser compatibility, including legacy browsers.
+- [fullPage](https://alvarotrigo.com/fullPage/#examples) - Create Beautiful Fullscreen Scrolling Websites
+- [simplePARALLAX](https://simpleparallax.com/) - the easiest way to get a parallax effect with javascript
+- [https://creepyface.io/](https://creepyface.io/) - A JavaScript library that makes your face look at the pointer.
+- [Loud links](https://loudlinks.rocks/) - A simple tiny Javascript library to add interaction sounds to your website.
 
 ### Maps
 
