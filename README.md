@@ -22,7 +22,6 @@ This is an attempt to categorise different ressources for fullstack developper J
 - [Validation](#Validation)
 - [Video](#Video)
 - [Youtube](#YoutubeVideo)
-- [3d](#3d)
 
 
 
@@ -37,6 +36,7 @@ Libraries
 - [particleReact](https://rpj.bembi.org/?ref=madewithreactjs.com#simple) - React particle JS, simple Preset
 - [paralax](https://matthew.wagerfield.com/parallax/) - Parallax Engine that reacts to the orientation of a smart device. Where no gyroscope or motion detection hardware is available, the position of the cursor is used instead.
 - [particleJS](https://vincentgarreau.com/particles.js/) - A lightweight JavaScript library for creating particles
+- [react-d3](https://github.com/bkrem/react-d3-tree) - React D3 Tree is a React component that lets you represent hierarchical data (e.g. ancestor trees, organisational structure, package dependencies) as an animated & interactive tree graph by leveraging D3's tree layout.
 
 ### Audio 
 
@@ -130,8 +130,5 @@ numbers, objects, strings, etc. Lodash’s modular methods are great for:
 
 - [node js app with google login, store user session with db mongo](https://www.youtube.com/watch?v=SBvmnHTQIPY&t=191s) - 
 
-### 3d
-
-- [react-d3](https://github.com/bkrem/react-d3-tree) - React D3 Tree is a React component that lets you represent hierarchical data (e.g. ancestor trees, organisational structure, package dependencies) as an animated & interactive tree graph by leveraging D3's tree layout.
 
 
