@@ -10,7 +10,9 @@ This is an attempt to categorise different ressources for fullstack developper J
 - [Chat](#Chat)
 - [Cdn](#Cdn)
 - [Cms](#Cms)
+- [Components React](#Components)
 - [Date and Timezone](#Time)
+- [Deploy check list](#Deploy)
 - [Framework JS](#Framework)
 - [Library](#Library)
 - [Maps](#Maps)
@@ -20,6 +22,8 @@ This is an attempt to categorise different ressources for fullstack developper J
 - [Validation](#Validation)
 - [Video](#Video)
 - [Youtube](#YoutubeVideo)
+- [3d](#3d)
+
 
 
 Libraries
@@ -42,10 +46,12 @@ Libraries
 
 - [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [graphQL tutorial](https://github.com/iamshaunjp/graphql-playlist) - GraphQL Tutorial - The net ninja
+- [swagger](https://swagger.io/) - Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset. Find out how Swagger can help you design and document your APIs at scale.
 
 ### Chat
 
 - [Tawk](https://www.tawk.to/) - Monitor and chat with the visitors on your website, mobile app or from a free customizable page.
+- [WebRTC](https://webrtc.org/) - With WebRTC, you can add real-time communication capabilities to your application that works on top of an open standard. It supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice- and video-communication solutions
 
 ### Cdn
 
@@ -56,10 +62,20 @@ Libraries
 
 - [Strapi](https://strapi.io/) - Strapi is the leading open-source headless CMS. It’s 100% Javascript, fully customizable and developer-first.
 
+### Components
+
+- [Wix style react](https://www.wix.com/pages/wix-style-react/?path=/story/introduction-getting-started--getting-started) - A collection of React components that conform to Wix Style.
+- [Storybook components](https://storybook.js.org/) - Storybook is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient.
+- [Storybook more examples](https://storybook.js.org/docs/examples/) - more library of components library in the storybook
+
 ### Date
 
 - [momentjs](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript.
 - [momentjstimezone](https://momentjs.com/timezone/) - Parse and display dates in any timezone.
+
+### Deploy
+
+- [Front end checklist](https://github.com/thedaviddias/Front-End-Checklist#head) - The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.
 
 ### Framework
 
@@ -88,6 +104,7 @@ Libraries
 - [http-server](https://github.com/http-party/http-server) - http-server is a simple, zero-configuration command-line http server.
 - [connect-redis](https://github.com/tj/connect-redis#readme) - connect-redis provides Redis session storage for Express
 - [multer](https://github.com/expressjs/multer) - Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency.
+- [Formidable](https://www.npmjs.com/package/formidable) - A Node.js module for parsing form data, especially file uploads.
 
 ### Orm
 
@@ -112,5 +129,9 @@ numbers, objects, strings, etc. Lodash’s modular methods are great for:
 ### YoutubeVideo
 
 - [node js app with google login, store user session with db mongo](https://www.youtube.com/watch?v=SBvmnHTQIPY&t=191s) - 
+
+### 3d
+
+- [react-d3](https://github.com/bkrem/react-d3-tree) - React D3 Tree is a React component that lets you represent hierarchical data (e.g. ancestor trees, organisational structure, package dependencies) as an animated & interactive tree graph by leveraging D3's tree layout.
 
 
