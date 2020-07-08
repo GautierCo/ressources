@@ -128,7 +128,7 @@ numbers, objects, strings, etc. Lodash’s modular methods are great for:
 
 ### YoutubeVideo
 
-- [node js app with google login, store user session with db mongo](https://www.youtube.com/watch?v=SBvmnHTQIPY&t=191s) - 
+- [node js app with google login, store user session with db mongo](https://www.youtube.com/watch?v=SBvmnHTQIPY&t=191s) - This is a full application build of the StoryBooks app which uses Node.js, Express, MongoDB, Passport with a Google OAuth strategy and more.
 
 
 
