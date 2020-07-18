@@ -29,7 +29,7 @@ Libraries
 -------
 
 ### Animation
-
+- [loader.io](https://loading.io/) - Loading spinners generator.
 - [paper.js](http://paperjs.org) - The Swiss Army Knife of Vector Graphics Scripting.
 - [typerjs](https://steven.codes/typerjs/) - the typing effect with a pure HTML interface.
 - [threejs](https://threejs.org/) - JavaScript 3D library. The aim of the project is to create an easy to use, lightweight, 3D library with a default WebGL renderer. The library also provides Canvas 2D, SVG and CSS3D renderers in the examples.
